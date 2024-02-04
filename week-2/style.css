@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(208, 204, 204);
+  
+}
+
+h1 {
+        color: rgb(6, 6, 6);
+        font-family: cursive;
+        font-size: 120%;
+        }
+
+h2 {
+        color: rgb(6, 6, 6);
+        font-family: cursive;
+        font-size: 140%;
+        }
+
+h3 {
+        color: rgb(6, 6, 6);
+        font-family: cursive;
+        font-size: 120%;
+        }
+
+h4 {
+    color: rgb(6, 6, 6);
+    font-family: cursive;
+    font-size: 145%;
+}
+
+p {
+        color: black;
+        font-family: cursive;
+        font-size: 115%;
+    
+        }
+
+p {
+
+        text-align: center;
+        
+        }
+
+h2 {
+
+        text-align: center;
+        
+        }
+h3 {
+
+        text-align: center;
+        
+        }
+
+h4 {
+
+        text-align: center;
+            
+            }
+ 
+div {
+    text-align: center;
+}
+
+img {
+    text-align: center;
+}
+  label {
+    color: rgb(6, 6, 6);
+    font-family: cursive;
+    font-size: 120%;
+    text-align: center;
+  }
+
+  
+  button {
+    color: rgb(6, 6, 6);
+    font-family: cursive;
+    font-size: 120%;
+  }
+
+  button {
+
+    text-align: center;
+    
+    }
+    
+    
